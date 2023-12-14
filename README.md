@@ -1,7 +1,7 @@
 Software Engineering Manager
 ----------------------------
 
-Guiding teams to success as a Software Manager. Crafting solutions and enhancing efficiency through automation. I believe that everything can be optimized with the power of scripts. Enthusiastic Nvim user and AI Sorcerer. 🚀🔮
+Guiding teams to success as a Software Manager. Crafting solutions and enhancing efficiency through automation. I believe that everything can be optimized with the power of scripts. Nvim user and AI Enthusiast.
 
 *   🌍  I'm based in Bucharest
 *   ✉️  You can contact me at [email](mailto:iliuta_podoleanu@yahoo.com)
