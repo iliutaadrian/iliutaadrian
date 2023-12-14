@@ -7,7 +7,7 @@ Guiding teams to success as a Software Manager. Crafting solutions and enhancing
 *   ✉️  You can contact me at [email](mailto:iliuta_podoleanu@yahoo.com)
 *   🚀  I'm currently working on [Translate Swiftly](http://https://github.com/iliutaadrian/Translate-Swiftly)
 *   🧠  I'm learning NextJS, Laravel
-*   ⚡  Working on my NVIM config
+*   ⚡  Get my dev config [DEV-ENV-config](https://github.com/iliutaadrian/DEV-ENV-config)
 
 ### Skills 
 <p align="left">
