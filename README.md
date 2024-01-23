@@ -8,7 +8,7 @@ Guiding teams to success as a Software Manager. Crafting solutions and enhancing
 *   🚀  I'm currently working on [GolfGenius](https://golfgenius.com), [Translate Swiftly](http://https://github.com/iliutaadrian/Translate-Swiftly)
 *   🧠  I'm learning NextJS, GO
 *   ⚡  Get my dev config [DEV-ENV-config](https://github.com/iliutaadrian/DEV-ENV-config)
-*  🏃 Training for Marathon
+*  🏃 Training for a Marathon
 
 ### Skills 
 <p align="left">
